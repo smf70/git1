@@ -1,1 +1,2 @@
-try Git push -u origin master
+try Git push -u origin mast
+правка на локальном компе
